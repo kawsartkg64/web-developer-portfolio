@@ -184,3 +184,8 @@ main section{
 #what-i-do-description {
     padding: 30px 150px;
 }
+.resume-column-title{
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
+}
