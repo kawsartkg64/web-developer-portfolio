@@ -116,28 +116,39 @@ nav a {
     text-align: center;
     font-size: 18px;
     font-weight: 400;
+    color: red;
+    /* margin: 30px 10px; */
 }
-main{
+
+main {
     max-width: 1140px;
     margin: 0 auto;
 }
-.about-info-container{
+
+.about-info-container {
     display: flex;
     justify-content: space-around;
 }
-.about-info{
+
+.about-info {
     align-items: center;
 }
-.info-title{
+
+.info-title {
     font-size: 20px;
     font-weight: 400;
     color: #757575;
-    
+
 
 }
-.info-description{
+
+.info-description {
     margin-top: -21px;
-    font-size:20px;
-    font-weight:bold;
+    font-size: 20px;
+    font-weight: bold;
     color: #474747;
+}
+
+#what-i-do-description {
+    padding: 30px 150px;
 }
