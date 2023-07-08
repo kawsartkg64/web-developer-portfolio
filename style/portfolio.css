@@ -117,3 +117,27 @@ nav a {
     font-size: 18px;
     font-weight: 400;
 }
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    align-items: center;
+}
+.info-title{
+    font-size: 20px;
+    font-weight: 400;
+    color: #757575;
+    
+
+}
+.info-description{
+    margin-top: -21px;
+    font-size:20px;
+    font-weight:bold;
+    color: #474747;
+}
